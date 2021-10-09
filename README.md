@@ -2,6 +2,16 @@
 
 Olá! Bem vindo ao livro de receitas :man_cartwheeling:
 
-- Macarrão
-- Mousse
+## Entrada
 
+- Caldo Verde :stew:
+
+## Prato Principal
+
+- Spaghetti :spaghetti:
+
+## Sobremesa
+
+- Mousse de Chocolate :chocolate_bar:
+
+  
